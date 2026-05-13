@@ -22,10 +22,12 @@ title: FxRPG
 email: FxRPG@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Open source simulation focused RPG system
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://undostrescuatro.github.io/fxrpg_srd' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: https://x.com/puchihaku
 github_username: https://github.com/undostrescuatro
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/undostrescuatro/fxrpg_srd
 
 # Build settings
 # theme: minima
