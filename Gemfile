@@ -18,7 +18,7 @@ gem "just-the-docs"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem 'cvs', '~> 0.1.0'
+  # gem 'cvs', '~> 0.1.0'
   # gem "just-the-docs"
 end
 
