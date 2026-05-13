@@ -29,12 +29,13 @@ github_username: https://github.com/undostrescuatro
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/undostrescuatro/fxrpg_srd
 
-# Build settings
-# theme: minima
-theme: just-the-docs
+# Build settings trying this before setting theme to check if it resovles errors
 plugins:
   - jekyll-feed
   - just-the-docs
+
+# theme: minima
+theme: just-the-docs
 
 ### just-the-docs configuration
 
